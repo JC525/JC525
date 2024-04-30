@@ -12,7 +12,7 @@
 <h2>Coding</h2>
 <b1>
   Learning Python 5th edition ISBN 978-1449355739 <br>
-        <p>This is an in depth about the programing language python. It is a valuable resource for anyone learning or seeking to improve their programing skills.</p>
+        			<p>This is an in depth about the programing language python. It is a valuable resource for anyone learning or seeking to improve their programing skills.</p>
 </b1>
 <br
 
