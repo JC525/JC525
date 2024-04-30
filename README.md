@@ -10,5 +10,6 @@
 <h1>Resource</h1>
 <b1>There is a plethora of information online to learn just about anything espically in the broad Field of Tech. Here is a list of a few source that I use to learn new skills</b1>
 <h2>Coding</h2>
-<img src=![image](https://github.com/JC525/JC525/assets/166774014/7e1f3473-1d78-459a-b915-8b19f499bbc5)>
+<img src="![image](https://github.com/JC525/JC525/assets/166774014/32fdd773-9703-4d04-9e39-073fb7ff7882)
+" alt="Python Rat" width="500" height="333">
 
