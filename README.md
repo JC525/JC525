@@ -10,8 +10,8 @@
 <h1>Resource</h1>
 <b1>There is a plethora of information online to learn just about anything espically in the broad Field of Tech. Here is a list of a few source that I use to learn new skills</b1>
 <h2>Coding</h2>
-<b1>Learning Python 5th edition ISBN 978-1449355739 </b1>
-<b1><p>  This is an in depth about the programing language python. It is a valuable resource for anyone learning or seeking to improve their programing skills.</p></b1>
+<b1>Learning Python 5th edition ISBN 978-1449355739 <br>
+<p>This is an in depth about the programing language python. It is a valuable resource for anyone learning or seeking to improve their programing skills.</p></b1>
 <br
 
 
